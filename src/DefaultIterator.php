@@ -2,7 +2,7 @@
 
 namespace Agoradesign\DOMXPathIterator;
 
-class DOMXpathIterator implements \Iterator {
+class DefaultIterator implements \Iterator {
 
   /**
    * The DOMDocument we are iterating.
