@@ -1,0 +1,23 @@
+{
+    "name": "agoradesign/domxpath-iterator",
+    "type": "library",
+    "description": "Iterators on top of PHP DOMXPath class.",
+    "keywords": ["xml", "xpath", "iterator"],
+    "license": "GPLv3",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "Agoradesign\\DOMXPathIterator\\": "src" }
+    },
+    "authors": [
+        {
+            "name": "Andreas Mayr"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
