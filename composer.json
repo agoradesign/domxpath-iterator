@@ -2,8 +2,9 @@
     "name": "agoradesign/domxpath-iterator",
     "type": "library",
     "description": "Iterators on top of PHP DOMXPath class.",
+    "homepage": "https://www.agoradesign.at/",
     "keywords": ["xml", "xpath", "iterator"],
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "require": {
         "php": ">=5.4.0"
     },
